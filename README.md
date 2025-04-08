@@ -2,12 +2,14 @@
 
 
 ## AIM:
+
     Simulation of Signal Sampling Using Various Types such as
     i) Ideal Sampling
     ii) Natural Sampling
     iii) Flat Top Sampling
 
 # SOFTWARE REQUIRED:
+
     Google Collab
 
 # ALGORITHM:
@@ -99,9 +101,13 @@ plt.show()
 
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/de6ce768-254c-4b67-a32a-afac1ea8f956)
- ![image](https://github.com/user-attachments/assets/baee630c-b077-4614-a01a-5b6dbcd24021)
- ![image](https://github.com/user-attachments/assets/2b02d5b9-48ee-4f85-a388-c95619dceb2c)
+
+![image](https://github.com/user-attachments/assets/baee630c-b077-4614-a01a-5b6dbcd24021)
+
+![image](https://github.com/user-attachments/assets/2b02d5b9-48ee-4f85-a388-c95619dceb2c)
 
 
 # RESULT:
+
+
 To simulate and visualize signal sampling using three techniques: Ideal Sampling, Natural Sampling, and Flat-Top Sampling, and compare the sampled output for a given analog signal (sine wave) was verified successfully.
