@@ -107,7 +107,7 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/2b02d5b9-48ee-4f85-a388-c95619dceb2c)
 
 
+
+
 # RESULT:
-
-
 To simulate and visualize signal sampling using three techniques: Ideal Sampling, Natural Sampling, and Flat-Top Sampling, and compare the sampled output for a given analog signal (sine wave) was verified successfully.
